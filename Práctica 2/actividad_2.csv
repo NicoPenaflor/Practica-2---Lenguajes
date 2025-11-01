@@ -1,0 +1,601 @@
+timestamp,campeon,actividad,entrenador
+2025-06-01 11:21,Garen,entrenamiento individual,coach_05
+2025-06-01 13:31,Yasuo,combate en equipo,coach_02
+2025-06-01 17:26,Thresh,práctica de habilidad,coach_02
+2025-06-01 20:15,Morgana,entrenamiento individual,coach_01
+2025-06-01 22:11,Yasuo,combate en equipo,coach_09
+2025-06-02 02:17,Ahri,práctica de habilidad,coach_04
+2025-06-02 05:23,Thresh,práctica de habilidad,coach_07
+2025-06-02 07:28,Ezreal,práctica de habilidad,coach_05
+2025-06-02 10:00,Lux,descanso,coach_06
+2025-06-02 13:35,Lux,combate en equipo,coach_06
+2025-06-02 16:13,Garen,descanso,coach_02
+2025-06-02 19:45,Lee Sin,práctica de habilidad,coach_05
+2025-06-02 22:05,Thresh,descanso,coach_09
+2025-06-03 01:15,Morgana,entrenamiento individual,coach_09
+2025-06-03 04:37,Zed,práctica de habilidad,coach_06
+2025-06-03 08:13,Yasuo,entrenamiento individual,coach_01
+2025-06-03 11:24,Yasuo,análisis de estrategia,coach_02
+2025-06-03 13:29,Garen,descanso,coach_05
+2025-06-03 16:58,Zed,análisis de estrategia,coach_03
+2025-06-03 19:47,Lee Sin,combate en equipo,coach_05
+2025-06-03 23:29,Zed,entrenamiento individual,coach_10
+2025-06-04 02:21,Lux,práctica de habilidad,coach_04
+2025-06-04 04:20,Ezreal,descanso,coach_05
+2025-06-04 08:21,Thresh,práctica de habilidad,coach_04
+2025-06-04 11:27,Lee Sin,entrenamiento individual,coach_04
+2025-06-04 13:04,Lee Sin,descanso,coach_05
+2025-06-04 16:08,Yasuo,práctica de habilidad,coach_06
+2025-06-04 19:27,Zed,descanso,coach_07
+2025-06-04 23:22,Ezreal,combate en equipo,coach_05
+2025-06-05 01:17,Yasuo,práctica de habilidad,coach_09
+2025-06-05 04:33,Thresh,práctica de habilidad,coach_07
+2025-06-05 08:14,Morgana,análisis de estrategia,coach_04
+2025-06-05 10:17,Vi,descanso,coach_02
+2025-06-05 13:06,Garen,combate en equipo,coach_03
+2025-06-05 17:27,Morgana,práctica de habilidad,coach_02
+2025-06-05 19:49,Morgana,práctica de habilidad,coach_08
+2025-06-05 23:07,Jinx,práctica de habilidad,coach_01
+2025-06-06 02:27,Thresh,entrenamiento individual,coach_09
+2025-06-06 04:34,Zed,análisis de estrategia,coach_02
+2025-06-06 07:37,Morgana,combate en equipo,coach_08
+2025-06-06 10:00,Thresh,análisis de estrategia,coach_09
+2025-06-06 13:22,Vi,entrenamiento individual,coach_05
+2025-06-06 17:21,Vi,práctica de habilidad,coach_04
+2025-06-06 19:19,Lee Sin,combate en equipo,coach_09
+2025-06-06 23:07,Ahri,práctica de habilidad,coach_06
+2025-06-07 02:02,Ahri,entrenamiento individual,coach_06
+2025-06-07 04:39,Yasuo,entrenamiento individual,coach_04
+2025-06-07 08:12,Garen,entrenamiento individual,coach_08
+2025-06-07 10:08,Vi,combate en equipo,coach_03
+2025-06-07 14:24,Ezreal,práctica de habilidad,coach_03
+2025-06-07 16:33,Vi,práctica de habilidad,coach_07
+2025-06-07 19:27,Vi,combate en equipo,coach_05
+2025-06-07 22:51,Zed,análisis de estrategia,coach_08
+2025-06-08 02:06,Ezreal,entrenamiento individual,coach_04
+2025-06-08 04:28,Garen,análisis de estrategia,coach_01
+2025-06-08 08:15,Vi,combate en equipo,coach_10
+2025-06-08 10:28,Ahri,entrenamiento individual,coach_01
+2025-06-08 13:29,Garen,entrenamiento individual,coach_06
+2025-06-08 16:09,Vi,combate en equipo,coach_05
+2025-06-08 20:25,Ezreal,combate en equipo,coach_09
+2025-06-08 22:16,Thresh,práctica de habilidad,coach_10
+2025-06-09 02:00,Yasuo,descanso,coach_07
+2025-06-09 04:24,Garen,entrenamiento individual,coach_07
+2025-06-09 07:45,Morgana,descanso,coach_08
+2025-06-09 10:06,Zed,entrenamiento individual,coach_01
+2025-06-09 13:51,Thresh,análisis de estrategia,coach_02
+2025-06-09 16:31,Yasuo,combate en equipo,coach_09
+2025-06-09 19:57,Lux,descanso,coach_03
+2025-06-09 22:35,Ezreal,combate en equipo,coach_02
+2025-06-10 01:56,Vi,entrenamiento individual,coach_01
+2025-06-10 05:23,Vi,entrenamiento individual,coach_02
+2025-06-10 07:30,Lux,descanso,coach_08
+2025-06-10 11:01,Yasuo,descanso,coach_01
+2025-06-10 13:21,Morgana,entrenamiento individual,coach_07
+2025-06-10 16:33,Ezreal,análisis de estrategia,coach_07
+2025-06-10 20:29,Thresh,práctica de habilidad,coach_08
+2025-06-10 22:19,Yasuo,análisis de estrategia,coach_04
+2025-06-11 01:07,Caitlyn,práctica de habilidad,coach_01
+2025-06-11 04:40,Ahri,entrenamiento individual,coach_10
+2025-06-11 08:01,Vi,práctica de habilidad,coach_03
+2025-06-11 10:07,Vi,entrenamiento individual,coach_03
+2025-06-11 13:08,Caitlyn,entrenamiento individual,coach_04
+2025-06-11 16:51,Garen,práctica de habilidad,coach_04
+2025-06-11 20:14,Caitlyn,entrenamiento individual,coach_10
+2025-06-11 22:10,Morgana,práctica de habilidad,coach_10
+2025-06-12 02:06,Lee Sin,análisis de estrategia,coach_04
+2025-06-12 05:25,Thresh,análisis de estrategia,coach_04
+2025-06-12 07:33,Morgana,combate en equipo,coach_05
+2025-06-12 10:58,Lee Sin,entrenamiento individual,coach_01
+2025-06-12 13:58,Caitlyn,práctica de habilidad,coach_02
+2025-06-12 16:09,Vi,combate en equipo,coach_09
+2025-06-12 19:33,Lux,análisis de estrategia,coach_02
+2025-06-12 22:31,Lee Sin,análisis de estrategia,coach_03
+2025-06-13 01:56,Vi,análisis de estrategia,coach_10
+2025-06-13 05:23,Vi,entrenamiento individual,coach_09
+2025-06-13 07:38,Zed,entrenamiento individual,coach_03
+2025-06-13 10:33,Garen,entrenamiento individual,coach_09
+2025-06-13 13:19,Jinx,análisis de estrategia,coach_10
+2025-06-13 16:26,Thresh,análisis de estrategia,coach_04
+2025-06-13 20:27,Zed,análisis de estrategia,coach_09
+2025-06-13 23:02,Jinx,entrenamiento individual,coach_02
+2025-06-14 02:21,Morgana,análisis de estrategia,coach_01
+2025-06-14 04:00,Lee Sin,combate en equipo,coach_05
+2025-06-14 07:20,Thresh,descanso,coach_09
+2025-06-14 11:30,Morgana,práctica de habilidad,coach_01
+2025-06-14 13:14,Garen,combate en equipo,coach_09
+2025-06-14 16:04,Lee Sin,práctica de habilidad,coach_09
+2025-06-14 19:18,Morgana,combate en equipo,coach_01
+2025-06-14 22:39,Lee Sin,entrenamiento individual,coach_06
+2025-06-15 01:26,Zed,combate en equipo,coach_02
+2025-06-15 04:45,Vi,descanso,coach_10
+2025-06-15 07:19,Yasuo,combate en equipo,coach_03
+2025-06-15 10:52,Ahri,combate en equipo,coach_06
+2025-06-15 13:52,Zed,combate en equipo,coach_05
+2025-06-15 16:20,Thresh,entrenamiento individual,coach_07
+2025-06-15 19:04,Ezreal,combate en equipo,coach_04
+2025-06-15 22:58,Lee Sin,análisis de estrategia,coach_04
+2025-06-16 01:28,Ahri,combate en equipo,coach_07
+2025-06-16 04:42,Jinx,entrenamiento individual,coach_05
+2025-06-16 07:44,Zed,práctica de habilidad,coach_07
+2025-06-16 11:26,Vi,análisis de estrategia,coach_01
+2025-06-16 13:14,Jinx,combate en equipo,coach_10
+2025-06-16 16:33,Ahri,entrenamiento individual,coach_10
+2025-06-16 19:55,Lee Sin,análisis de estrategia,coach_07
+2025-06-16 23:17,Vi,entrenamiento individual,coach_07
+2025-06-17 02:13,Yasuo,análisis de estrategia,coach_01
+2025-06-17 05:30,Morgana,entrenamiento individual,coach_09
+2025-06-17 08:08,Zed,combate en equipo,coach_06
+2025-06-17 10:55,Garen,análisis de estrategia,coach_10
+2025-06-17 13:40,Zed,entrenamiento individual,coach_05
+2025-06-17 17:04,Jinx,descanso,coach_06
+2025-06-17 19:51,Thresh,análisis de estrategia,coach_09
+2025-06-17 22:16,Yasuo,descanso,coach_07
+2025-06-18 02:26,Thresh,combate en equipo,coach_10
+2025-06-18 05:12,Jinx,descanso,coach_09
+2025-06-18 07:00,Jinx,análisis de estrategia,coach_04
+2025-06-18 10:55,Caitlyn,práctica de habilidad,coach_06
+2025-06-18 13:59,Ezreal,descanso,coach_04
+2025-06-18 17:05,Ezreal,combate en equipo,coach_02
+2025-06-18 19:36,Vi,práctica de habilidad,coach_06
+2025-06-18 22:11,Yasuo,análisis de estrategia,coach_04
+2025-06-19 01:25,Lux,entrenamiento individual,coach_01
+2025-06-19 04:31,Ezreal,práctica de habilidad,coach_02
+2025-06-19 07:58,Morgana,práctica de habilidad,coach_04
+2025-06-19 11:29,Morgana,descanso,coach_07
+2025-06-19 13:31,Lux,entrenamiento individual,coach_02
+2025-06-19 16:54,Yasuo,combate en equipo,coach_09
+2025-06-19 19:59,Ahri,práctica de habilidad,coach_04
+2025-06-19 22:15,Ezreal,combate en equipo,coach_08
+2025-06-20 02:25,Vi,práctica de habilidad,coach_10
+2025-06-20 04:40,Ezreal,práctica de habilidad,coach_09
+2025-06-20 07:54,Vi,descanso,coach_03
+2025-06-20 11:00,Ezreal,análisis de estrategia,coach_04
+2025-06-20 14:21,Jinx,práctica de habilidad,coach_08
+2025-06-20 17:20,Yasuo,análisis de estrategia,coach_08
+2025-06-20 19:09,Thresh,análisis de estrategia,coach_04
+2025-06-20 22:34,Lee Sin,análisis de estrategia,coach_09
+2025-06-21 01:10,Lux,combate en equipo,coach_04
+2025-06-21 04:49,Thresh,combate en equipo,coach_04
+2025-06-21 07:08,Morgana,descanso,coach_06
+2025-06-21 11:09,Ezreal,descanso,coach_01
+2025-06-21 13:26,Morgana,descanso,coach_10
+2025-06-21 17:29,Ahri,práctica de habilidad,coach_07
+2025-06-21 20:01,Ahri,análisis de estrategia,coach_05
+2025-06-21 22:49,Morgana,práctica de habilidad,coach_09
+2025-06-22 02:17,Yasuo,descanso,coach_04
+2025-06-22 04:34,Morgana,descanso,coach_01
+2025-06-22 07:49,Lee Sin,descanso,coach_03
+2025-06-22 10:59,Lux,práctica de habilidad,coach_09
+2025-06-22 13:03,Morgana,práctica de habilidad,coach_10
+2025-06-22 17:24,Ahri,entrenamiento individual,coach_07
+2025-06-22 19:17,Ezreal,combate en equipo,coach_01
+2025-06-22 22:33,Morgana,análisis de estrategia,coach_04
+2025-06-23 01:58,Lee Sin,análisis de estrategia,coach_07
+2025-06-23 04:35,Morgana,análisis de estrategia,coach_02
+2025-06-23 08:00,Ahri,práctica de habilidad,coach_01
+2025-06-23 10:44,Yasuo,entrenamiento individual,coach_01
+2025-06-23 13:03,Yasuo,combate en equipo,coach_01
+2025-06-23 17:19,Lux,combate en equipo,coach_03
+2025-06-23 20:00,Zed,entrenamiento individual,coach_10
+2025-06-23 22:27,Ezreal,análisis de estrategia,coach_06
+2025-06-24 01:21,Caitlyn,práctica de habilidad,coach_02
+2025-06-24 04:20,Jinx,entrenamiento individual,coach_10
+2025-06-24 07:03,Jinx,práctica de habilidad,coach_07
+2025-06-24 10:50,Thresh,combate en equipo,coach_02
+2025-06-24 14:15,Thresh,combate en equipo,coach_02
+2025-06-24 17:29,Jinx,práctica de habilidad,coach_02
+2025-06-24 20:12,Ahri,análisis de estrategia,coach_09
+2025-06-24 22:54,Zed,análisis de estrategia,coach_02
+2025-06-25 02:04,Zed,análisis de estrategia,coach_01
+2025-06-25 04:53,Ezreal,entrenamiento individual,coach_07
+2025-06-25 07:46,Zed,descanso,coach_03
+2025-06-25 10:55,Lux,práctica de habilidad,coach_05
+2025-06-25 14:18,Vi,descanso,coach_08
+2025-06-25 16:55,Thresh,práctica de habilidad,coach_05
+2025-06-25 19:41,Yasuo,entrenamiento individual,coach_05
+2025-06-25 22:57,Yasuo,descanso,coach_10
+2025-06-26 02:18,Zed,descanso,coach_06
+2025-06-26 04:03,Ezreal,análisis de estrategia,coach_03
+2025-06-26 08:02,Yasuo,análisis de estrategia,coach_05
+2025-06-26 10:43,Jinx,práctica de habilidad,coach_05
+2025-06-26 14:11,Ahri,práctica de habilidad,coach_04
+2025-06-26 16:10,Yasuo,descanso,coach_08
+2025-06-26 20:11,Yasuo,descanso,coach_08
+2025-06-26 22:57,Ahri,entrenamiento individual,coach_05
+2025-06-27 01:28,Morgana,combate en equipo,coach_05
+2025-06-27 05:24,Caitlyn,análisis de estrategia,coach_08
+2025-06-27 08:10,Vi,análisis de estrategia,coach_07
+2025-06-27 11:10,Lee Sin,análisis de estrategia,coach_08
+2025-06-27 13:34,Jinx,análisis de estrategia,coach_04
+2025-06-27 16:15,Thresh,combate en equipo,coach_06
+2025-06-27 19:15,Thresh,práctica de habilidad,coach_03
+2025-06-27 22:24,Yasuo,descanso,coach_05
+2025-06-28 02:15,Vi,práctica de habilidad,coach_05
+2025-06-28 04:12,Yasuo,análisis de estrategia,coach_04
+2025-06-28 07:46,Lux,análisis de estrategia,coach_01
+2025-06-28 11:30,Vi,combate en equipo,coach_05
+2025-06-28 13:05,Ahri,práctica de habilidad,coach_05
+2025-06-28 17:29,Lux,descanso,coach_02
+2025-06-28 19:01,Caitlyn,análisis de estrategia,coach_08
+2025-06-28 23:01,Ezreal,análisis de estrategia,coach_03
+2025-06-29 01:06,Jinx,descanso,coach_02
+2025-06-29 04:08,Morgana,descanso,coach_02
+2025-06-29 08:13,Zed,entrenamiento individual,coach_03
+2025-06-29 10:19,Caitlyn,análisis de estrategia,coach_02
+2025-06-29 13:31,Garen,práctica de habilidad,coach_07
+2025-06-29 17:17,Caitlyn,práctica de habilidad,coach_04
+2025-06-29 20:06,Morgana,descanso,coach_08
+2025-06-29 22:38,Caitlyn,descanso,coach_05
+2025-06-30 02:12,Caitlyn,entrenamiento individual,coach_10
+2025-06-30 04:12,Yasuo,combate en equipo,coach_05
+2025-06-30 08:24,Garen,combate en equipo,coach_04
+2025-06-30 10:22,Vi,entrenamiento individual,coach_03
+2025-06-30 13:00,Morgana,descanso,coach_10
+2025-06-30 17:00,Jinx,entrenamiento individual,coach_04
+2025-06-30 19:36,Thresh,análisis de estrategia,coach_08
+2025-06-30 22:09,Zed,combate en equipo,coach_05
+2025-07-01 02:20,Caitlyn,combate en equipo,coach_07
+2025-07-01 04:14,Vi,combate en equipo,coach_03
+2025-07-01 07:34,Lux,entrenamiento individual,coach_01
+2025-07-01 10:21,Jinx,práctica de habilidad,coach_10
+2025-07-01 13:36,Ezreal,entrenamiento individual,coach_08
+2025-07-01 17:28,Jinx,descanso,coach_05
+2025-07-01 20:04,Vi,descanso,coach_08
+2025-07-01 22:10,Caitlyn,entrenamiento individual,coach_07
+2025-07-02 01:41,Caitlyn,análisis de estrategia,coach_01
+2025-07-02 04:11,Yasuo,práctica de habilidad,coach_10
+2025-07-02 07:02,Zed,análisis de estrategia,coach_10
+2025-07-02 10:05,Lux,descanso,coach_09
+2025-07-02 14:23,Ezreal,análisis de estrategia,coach_03
+2025-07-02 17:14,Morgana,descanso,coach_02
+2025-07-02 20:00,Lee Sin,descanso,coach_06
+2025-07-02 22:41,Zed,entrenamiento individual,coach_03
+2025-07-03 01:42,Morgana,descanso,coach_05
+2025-07-03 05:24,Morgana,práctica de habilidad,coach_01
+2025-07-03 07:58,Garen,análisis de estrategia,coach_05
+2025-07-03 10:41,Garen,descanso,coach_09
+2025-07-03 13:00,Zed,práctica de habilidad,coach_08
+2025-07-03 16:52,Ahri,combate en equipo,coach_09
+2025-07-03 19:46,Caitlyn,descanso,coach_08
+2025-07-03 22:06,Yasuo,análisis de estrategia,coach_09
+2025-07-04 01:16,Jinx,descanso,coach_08
+2025-07-04 04:15,Ahri,práctica de habilidad,coach_04
+2025-07-04 08:30,Lux,análisis de estrategia,coach_09
+2025-07-04 10:01,Vi,descanso,coach_02
+2025-07-04 13:28,Garen,descanso,coach_02
+2025-07-04 17:22,Lux,descanso,coach_05
+2025-07-04 20:05,Thresh,análisis de estrategia,coach_07
+2025-07-04 23:01,Ezreal,combate en equipo,coach_08
+2025-07-05 02:10,Lux,descanso,coach_04
+2025-07-05 05:16,Vi,combate en equipo,coach_02
+2025-07-05 07:35,Morgana,análisis de estrategia,coach_09
+2025-07-05 10:34,Ahri,análisis de estrategia,coach_05
+2025-07-05 14:15,Caitlyn,descanso,coach_03
+2025-07-05 16:57,Vi,descanso,coach_06
+2025-07-05 19:42,Vi,práctica de habilidad,coach_07
+2025-07-05 22:58,Lee Sin,combate en equipo,coach_04
+2025-07-06 02:13,Morgana,combate en equipo,coach_07
+2025-07-06 04:05,Lee Sin,descanso,coach_07
+2025-07-06 07:49,Zed,combate en equipo,coach_08
+2025-07-06 10:04,Lux,práctica de habilidad,coach_10
+2025-07-06 13:42,Garen,descanso,coach_02
+2025-07-06 17:07,Ezreal,entrenamiento individual,coach_03
+2025-07-06 19:52,Zed,combate en equipo,coach_02
+2025-07-06 23:00,Jinx,análisis de estrategia,coach_10
+2025-07-07 02:28,Morgana,entrenamiento individual,coach_06
+2025-07-07 05:26,Vi,descanso,coach_06
+2025-07-07 08:20,Thresh,descanso,coach_09
+2025-07-07 10:04,Caitlyn,entrenamiento individual,coach_04
+2025-07-07 14:20,Zed,análisis de estrategia,coach_04
+2025-07-07 16:11,Morgana,entrenamiento individual,coach_02
+2025-07-07 19:56,Lux,análisis de estrategia,coach_01
+2025-07-07 22:05,Lee Sin,entrenamiento individual,coach_05
+2025-07-08 01:45,Lee Sin,descanso,coach_03
+2025-07-08 04:31,Vi,descanso,coach_10
+2025-07-08 08:27,Lux,combate en equipo,coach_03
+2025-07-08 10:10,Caitlyn,descanso,coach_10
+2025-07-08 14:27,Yasuo,descanso,coach_10
+2025-07-08 16:18,Yasuo,descanso,coach_05
+2025-07-08 19:58,Jinx,entrenamiento individual,coach_08
+2025-07-08 22:36,Zed,práctica de habilidad,coach_03
+2025-07-09 01:09,Ezreal,análisis de estrategia,coach_10
+2025-07-09 04:38,Zed,descanso,coach_05
+2025-07-09 07:58,Jinx,combate en equipo,coach_07
+2025-07-09 11:01,Garen,combate en equipo,coach_07
+2025-07-09 14:13,Lee Sin,práctica de habilidad,coach_05
+2025-07-09 17:29,Jinx,entrenamiento individual,coach_07
+2025-07-09 19:35,Ahri,práctica de habilidad,coach_01
+2025-07-09 23:17,Thresh,descanso,coach_05
+2025-07-10 01:29,Caitlyn,análisis de estrategia,coach_04
+2025-07-10 05:21,Yasuo,práctica de habilidad,coach_05
+2025-07-10 08:26,Thresh,combate en equipo,coach_02
+2025-07-10 11:20,Zed,entrenamiento individual,coach_05
+2025-07-10 13:56,Ahri,práctica de habilidad,coach_06
+2025-07-10 16:16,Garen,análisis de estrategia,coach_06
+2025-07-10 19:53,Lux,combate en equipo,coach_03
+2025-07-10 23:09,Lee Sin,práctica de habilidad,coach_09
+2025-07-11 01:34,Lux,análisis de estrategia,coach_08
+2025-07-11 04:37,Thresh,análisis de estrategia,coach_02
+2025-07-11 07:59,Garen,combate en equipo,coach_04
+2025-07-11 11:26,Thresh,descanso,coach_09
+2025-07-11 13:46,Garen,descanso,coach_01
+2025-07-11 16:33,Vi,entrenamiento individual,coach_08
+2025-07-11 19:47,Zed,análisis de estrategia,coach_10
+2025-07-11 22:48,Zed,análisis de estrategia,coach_02
+2025-07-12 02:26,Yasuo,descanso,coach_01
+2025-07-12 05:19,Vi,análisis de estrategia,coach_10
+2025-07-12 07:28,Zed,entrenamiento individual,coach_08
+2025-07-12 11:29,Jinx,descanso,coach_02
+2025-07-12 13:17,Ahri,entrenamiento individual,coach_05
+2025-07-12 17:03,Garen,entrenamiento individual,coach_04
+2025-07-12 20:08,Lux,descanso,coach_08
+2025-07-12 22:47,Zed,práctica de habilidad,coach_07
+2025-07-13 02:15,Thresh,combate en equipo,coach_07
+2025-07-13 05:23,Garen,descanso,coach_10
+2025-07-13 07:52,Jinx,entrenamiento individual,coach_06
+2025-07-13 10:27,Ezreal,descanso,coach_04
+2025-07-13 13:46,Garen,análisis de estrategia,coach_09
+2025-07-13 17:22,Lee Sin,entrenamiento individual,coach_07
+2025-07-13 19:35,Yasuo,entrenamiento individual,coach_08
+2025-07-13 22:11,Zed,combate en equipo,coach_10
+2025-07-14 01:02,Ahri,análisis de estrategia,coach_04
+2025-07-14 04:16,Caitlyn,combate en equipo,coach_02
+2025-07-14 08:10,Yasuo,práctica de habilidad,coach_04
+2025-07-14 10:29,Lee Sin,combate en equipo,coach_10
+2025-07-14 13:00,Jinx,combate en equipo,coach_03
+2025-07-14 17:09,Jinx,combate en equipo,coach_02
+2025-07-14 20:24,Ahri,combate en equipo,coach_01
+2025-07-14 22:45,Yasuo,práctica de habilidad,coach_06
+2025-07-15 01:02,Lux,análisis de estrategia,coach_01
+2025-07-15 04:16,Thresh,descanso,coach_09
+2025-07-15 07:14,Thresh,entrenamiento individual,coach_08
+2025-07-15 10:57,Lee Sin,práctica de habilidad,coach_10
+2025-07-15 13:13,Ezreal,práctica de habilidad,coach_04
+2025-07-15 17:18,Ahri,práctica de habilidad,coach_05
+2025-07-15 19:58,Zed,entrenamiento individual,coach_01
+2025-07-15 23:01,Morgana,descanso,coach_02
+2025-07-16 02:02,Thresh,descanso,coach_02
+2025-07-16 04:10,Lee Sin,práctica de habilidad,coach_03
+2025-07-16 07:08,Lux,análisis de estrategia,coach_10
+2025-07-16 11:21,Caitlyn,práctica de habilidad,coach_06
+2025-07-16 13:48,Caitlyn,práctica de habilidad,coach_05
+2025-07-16 16:58,Vi,práctica de habilidad,coach_07
+2025-07-16 19:12,Thresh,entrenamiento individual,coach_09
+2025-07-16 22:27,Morgana,descanso,coach_04
+2025-07-17 01:52,Lee Sin,descanso,coach_07
+2025-07-17 04:53,Thresh,entrenamiento individual,coach_06
+2025-07-17 07:54,Lee Sin,análisis de estrategia,coach_06
+2025-07-17 10:19,Zed,descanso,coach_02
+2025-07-17 13:11,Garen,entrenamiento individual,coach_07
+2025-07-17 16:12,Thresh,análisis de estrategia,coach_03
+2025-07-17 20:11,Ahri,práctica de habilidad,coach_09
+2025-07-17 23:11,Lee Sin,entrenamiento individual,coach_07
+2025-07-18 01:45,Zed,descanso,coach_01
+2025-07-18 04:36,Caitlyn,análisis de estrategia,coach_06
+2025-07-18 07:13,Caitlyn,práctica de habilidad,coach_04
+2025-07-18 10:19,Zed,descanso,coach_04
+2025-07-18 13:13,Lee Sin,práctica de habilidad,coach_06
+2025-07-18 16:14,Jinx,práctica de habilidad,coach_04
+2025-07-18 19:54,Vi,práctica de habilidad,coach_10
+2025-07-18 23:26,Zed,práctica de habilidad,coach_01
+2025-07-19 02:17,Zed,análisis de estrategia,coach_01
+2025-07-19 04:23,Jinx,análisis de estrategia,coach_06
+2025-07-19 07:44,Ahri,combate en equipo,coach_03
+2025-07-19 11:12,Zed,descanso,coach_02
+2025-07-19 13:18,Thresh,entrenamiento individual,coach_02
+2025-07-19 17:07,Yasuo,descanso,coach_07
+2025-07-19 19:58,Lee Sin,combate en equipo,coach_06
+2025-07-19 22:39,Thresh,análisis de estrategia,coach_10
+2025-07-20 02:16,Garen,entrenamiento individual,coach_03
+2025-07-20 04:20,Caitlyn,entrenamiento individual,coach_02
+2025-07-20 07:34,Ezreal,descanso,coach_08
+2025-07-20 11:17,Ezreal,descanso,coach_05
+2025-07-20 13:27,Vi,entrenamiento individual,coach_06
+2025-07-20 16:55,Garen,análisis de estrategia,coach_10
+2025-07-20 20:02,Vi,análisis de estrategia,coach_01
+2025-07-20 22:28,Morgana,práctica de habilidad,coach_01
+2025-07-21 01:00,Yasuo,análisis de estrategia,coach_04
+2025-07-21 04:17,Jinx,análisis de estrategia,coach_06
+2025-07-21 07:15,Ahri,descanso,coach_07
+2025-07-21 10:22,Lux,descanso,coach_09
+2025-07-21 14:30,Yasuo,práctica de habilidad,coach_09
+2025-07-21 17:25,Lee Sin,entrenamiento individual,coach_07
+2025-07-21 19:05,Morgana,entrenamiento individual,coach_08
+2025-07-21 22:09,Lee Sin,práctica de habilidad,coach_07
+2025-07-22 02:13,Morgana,descanso,coach_05
+2025-07-22 04:14,Morgana,entrenamiento individual,coach_06
+2025-07-22 07:21,Caitlyn,descanso,coach_06
+2025-07-22 10:11,Morgana,entrenamiento individual,coach_04
+2025-07-22 13:55,Caitlyn,descanso,coach_09
+2025-07-22 16:10,Morgana,análisis de estrategia,coach_06
+2025-07-22 19:28,Lee Sin,combate en equipo,coach_02
+2025-07-22 23:05,Zed,entrenamiento individual,coach_09
+2025-07-23 02:05,Yasuo,análisis de estrategia,coach_06
+2025-07-23 05:22,Lux,combate en equipo,coach_02
+2025-07-23 07:18,Jinx,combate en equipo,coach_03
+2025-07-23 11:17,Lux,entrenamiento individual,coach_03
+2025-07-23 14:20,Ezreal,descanso,coach_10
+2025-07-23 17:14,Ezreal,práctica de habilidad,coach_10
+2025-07-23 19:41,Zed,análisis de estrategia,coach_03
+2025-07-23 22:56,Garen,descanso,coach_08
+2025-07-24 02:20,Jinx,análisis de estrategia,coach_10
+2025-07-24 04:07,Lee Sin,práctica de habilidad,coach_02
+2025-07-24 07:39,Ezreal,descanso,coach_01
+2025-07-24 10:07,Lee Sin,análisis de estrategia,coach_02
+2025-07-24 14:22,Garen,práctica de habilidad,coach_10
+2025-07-24 17:04,Morgana,descanso,coach_10
+2025-07-24 20:10,Thresh,entrenamiento individual,coach_08
+2025-07-24 23:13,Zed,combate en equipo,coach_06
+2025-07-25 02:17,Ezreal,práctica de habilidad,coach_03
+2025-07-25 04:07,Ezreal,entrenamiento individual,coach_06
+2025-07-25 07:10,Vi,combate en equipo,coach_01
+2025-07-25 10:31,Thresh,descanso,coach_08
+2025-07-25 14:07,Vi,práctica de habilidad,coach_03
+2025-07-25 16:46,Lee Sin,análisis de estrategia,coach_07
+2025-07-25 19:52,Lee Sin,práctica de habilidad,coach_01
+2025-07-25 23:20,Zed,análisis de estrategia,coach_02
+2025-07-26 01:42,Garen,práctica de habilidad,coach_07
+2025-07-26 04:36,Jinx,práctica de habilidad,coach_03
+2025-07-26 07:42,Garen,práctica de habilidad,coach_03
+2025-07-26 10:44,Jinx,descanso,coach_03
+2025-07-26 14:16,Thresh,entrenamiento individual,coach_05
+2025-07-26 17:11,Morgana,análisis de estrategia,coach_03
+2025-07-26 20:25,Thresh,práctica de habilidad,coach_02
+2025-07-26 23:22,Zed,descanso,coach_09
+2025-07-27 01:46,Ahri,análisis de estrategia,coach_05
+2025-07-27 04:23,Yasuo,análisis de estrategia,coach_08
+2025-07-27 07:24,Yasuo,combate en equipo,coach_03
+2025-07-27 10:09,Jinx,entrenamiento individual,coach_09
+2025-07-27 14:09,Thresh,práctica de habilidad,coach_01
+2025-07-27 17:24,Lee Sin,práctica de habilidad,coach_03
+2025-07-27 20:16,Morgana,combate en equipo,coach_03
+2025-07-27 22:23,Thresh,práctica de habilidad,coach_03
+2025-07-28 01:56,Ahri,descanso,coach_06
+2025-07-28 05:26,Thresh,combate en equipo,coach_08
+2025-07-28 08:18,Jinx,descanso,coach_04
+2025-07-28 11:08,Yasuo,análisis de estrategia,coach_08
+2025-07-28 13:24,Lee Sin,práctica de habilidad,coach_08
+2025-07-28 16:59,Jinx,descanso,coach_09
+2025-07-28 20:07,Morgana,combate en equipo,coach_04
+2025-07-28 23:17,Lux,análisis de estrategia,coach_01
+2025-07-29 02:22,Ezreal,análisis de estrategia,coach_09
+2025-07-29 04:13,Thresh,práctica de habilidad,coach_02
+2025-07-29 07:36,Garen,combate en equipo,coach_05
+2025-07-29 10:57,Vi,combate en equipo,coach_07
+2025-07-29 13:11,Yasuo,descanso,coach_06
+2025-07-29 16:03,Morgana,entrenamiento individual,coach_07
+2025-07-29 20:04,Lee Sin,combate en equipo,coach_07
+2025-07-29 22:10,Lee Sin,combate en equipo,coach_01
+2025-07-30 01:40,Garen,análisis de estrategia,coach_03
+2025-07-30 04:17,Ahri,análisis de estrategia,coach_08
+2025-07-30 08:29,Lux,descanso,coach_08
+2025-07-30 11:18,Ahri,entrenamiento individual,coach_01
+2025-07-30 13:32,Yasuo,combate en equipo,coach_09
+2025-07-30 17:17,Vi,descanso,coach_02
+2025-07-30 19:36,Yasuo,análisis de estrategia,coach_02
+2025-07-30 22:06,Yasuo,descanso,coach_10
+2025-07-31 01:58,Garen,entrenamiento individual,coach_08
+2025-07-31 05:16,Vi,entrenamiento individual,coach_09
+2025-07-31 08:13,Yasuo,combate en equipo,coach_05
+2025-07-31 10:54,Ahri,práctica de habilidad,coach_06
+2025-07-31 13:30,Caitlyn,descanso,coach_03
+2025-07-31 17:25,Zed,entrenamiento individual,coach_09
+2025-07-31 19:46,Garen,práctica de habilidad,coach_09
+2025-07-31 23:04,Vi,práctica de habilidad,coach_01
+2025-08-01 01:49,Ezreal,entrenamiento individual,coach_07
+2025-08-01 04:47,Jinx,entrenamiento individual,coach_06
+2025-08-01 07:08,Lee Sin,combate en equipo,coach_02
+2025-08-01 11:14,Thresh,análisis de estrategia,coach_03
+2025-08-01 13:05,Lee Sin,práctica de habilidad,coach_06
+2025-08-01 17:22,Lux,descanso,coach_08
+2025-08-01 20:20,Lux,combate en equipo,coach_02
+2025-08-01 22:58,Ahri,análisis de estrategia,coach_04
+2025-08-02 01:05,Yasuo,entrenamiento individual,coach_06
+2025-08-02 04:39,Vi,descanso,coach_09
+2025-08-02 08:00,Jinx,entrenamiento individual,coach_04
+2025-08-02 10:36,Lee Sin,entrenamiento individual,coach_06
+2025-08-02 13:34,Garen,análisis de estrategia,coach_07
+2025-08-02 16:51,Thresh,descanso,coach_07
+2025-08-02 19:43,Lux,descanso,coach_08
+2025-08-02 22:47,Vi,análisis de estrategia,coach_02
+2025-08-03 01:54,Garen,descanso,coach_10
+2025-08-03 04:23,Vi,análisis de estrategia,coach_06
+2025-08-03 07:13,Garen,análisis de estrategia,coach_05
+2025-08-03 10:39,Ezreal,práctica de habilidad,coach_07
+2025-08-03 13:21,Thresh,descanso,coach_06
+2025-08-03 16:57,Ahri,análisis de estrategia,coach_10
+2025-08-03 19:55,Jinx,entrenamiento individual,coach_02
+2025-08-03 23:25,Zed,descanso,coach_06
+2025-08-04 02:05,Thresh,combate en equipo,coach_01
+2025-08-04 04:18,Caitlyn,descanso,coach_01
+2025-08-04 07:16,Garen,combate en equipo,coach_06
+2025-08-04 10:46,Morgana,práctica de habilidad,coach_01
+2025-08-04 14:17,Lux,descanso,coach_06
+2025-08-04 16:47,Ezreal,entrenamiento individual,coach_10
+2025-08-04 19:17,Vi,análisis de estrategia,coach_07
+2025-08-04 22:40,Zed,análisis de estrategia,coach_04
+2025-08-05 01:14,Ahri,combate en equipo,coach_08
+2025-08-05 05:06,Morgana,práctica de habilidad,coach_02
+2025-08-05 07:33,Jinx,descanso,coach_04
+2025-08-05 11:18,Jinx,descanso,coach_04
+2025-08-05 13:15,Lux,entrenamiento individual,coach_08
+2025-08-05 16:22,Thresh,descanso,coach_02
+2025-08-05 20:27,Lee Sin,análisis de estrategia,coach_02
+2025-08-05 23:10,Vi,análisis de estrategia,coach_05
+2025-08-06 01:20,Thresh,combate en equipo,coach_06
+2025-08-06 05:05,Yasuo,entrenamiento individual,coach_04
+2025-08-06 07:17,Yasuo,descanso,coach_01
+2025-08-06 10:46,Vi,práctica de habilidad,coach_06
+2025-08-06 13:59,Vi,combate en equipo,coach_10
+2025-08-06 16:11,Garen,análisis de estrategia,coach_07
+2025-08-06 20:01,Vi,descanso,coach_07
+2025-08-06 23:13,Garen,combate en equipo,coach_06
+2025-08-07 02:22,Garen,descanso,coach_08
+2025-08-07 05:27,Vi,análisis de estrategia,coach_03
+2025-08-07 08:10,Zed,práctica de habilidad,coach_03
+2025-08-07 10:16,Morgana,práctica de habilidad,coach_01
+2025-08-07 13:15,Vi,combate en equipo,coach_05
+2025-08-07 16:21,Lux,análisis de estrategia,coach_04
+2025-08-07 19:44,Vi,análisis de estrategia,coach_02
+2025-08-07 22:32,Yasuo,práctica de habilidad,coach_05
+2025-08-08 01:16,Zed,análisis de estrategia,coach_10
+2025-08-08 05:08,Garen,práctica de habilidad,coach_03
+2025-08-08 08:15,Caitlyn,combate en equipo,coach_03
+2025-08-08 11:24,Caitlyn,práctica de habilidad,coach_06
+2025-08-08 14:12,Ahri,entrenamiento individual,coach_02
+2025-08-08 16:05,Zed,práctica de habilidad,coach_05
+2025-08-08 20:23,Yasuo,práctica de habilidad,coach_07
+2025-08-08 23:19,Zed,entrenamiento individual,coach_08
+2025-08-09 02:20,Vi,análisis de estrategia,coach_05
+2025-08-09 05:01,Yasuo,descanso,coach_05
+2025-08-09 07:58,Garen,entrenamiento individual,coach_03
+2025-08-09 10:56,Morgana,descanso,coach_08
+2025-08-09 13:26,Lee Sin,práctica de habilidad,coach_03
+2025-08-09 16:40,Thresh,análisis de estrategia,coach_06
+2025-08-09 19:51,Lux,análisis de estrategia,coach_09
+2025-08-09 23:11,Garen,análisis de estrategia,coach_04
+2025-08-10 01:59,Garen,análisis de estrategia,coach_08
+2025-08-10 04:31,Lux,entrenamiento individual,coach_01
+2025-08-10 07:37,Morgana,práctica de habilidad,coach_07
+2025-08-10 10:31,Lux,análisis de estrategia,coach_10
+2025-08-10 13:40,Yasuo,combate en equipo,coach_08
+2025-08-10 17:05,Ezreal,descanso,coach_05
+2025-08-10 20:03,Ahri,entrenamiento individual,coach_07
+2025-08-10 23:04,Ezreal,combate en equipo,coach_04
+2025-08-11 02:14,Lee Sin,entrenamiento individual,coach_01
+2025-08-11 04:36,Ezreal,práctica de habilidad,coach_08
+2025-08-11 07:36,Vi,entrenamiento individual,coach_02
+2025-08-11 10:55,Lux,análisis de estrategia,coach_06
+2025-08-11 13:51,Lee Sin,entrenamiento individual,coach_07
+2025-08-11 16:06,Caitlyn,práctica de habilidad,coach_04
+2025-08-11 19:46,Vi,análisis de estrategia,coach_02
+2025-08-11 22:49,Vi,descanso,coach_09
+2025-08-12 01:35,Caitlyn,práctica de habilidad,coach_02
+2025-08-12 04:16,Garen,descanso,coach_06
+2025-08-12 07:43,Vi,análisis de estrategia,coach_03
+2025-08-12 10:25,Caitlyn,práctica de habilidad,coach_07
+2025-08-12 14:04,Ahri,entrenamiento individual,coach_01
+2025-08-12 16:17,Thresh,análisis de estrategia,coach_08
+2025-08-12 20:06,Ezreal,combate en equipo,coach_10
+2025-08-12 23:05,Lux,análisis de estrategia,coach_10
+2025-08-13 01:40,Lux,descanso,coach_10
+2025-08-13 04:38,Caitlyn,análisis de estrategia,coach_09
+2025-08-13 08:05,Vi,descanso,coach_10
+2025-08-13 10:38,Ezreal,entrenamiento individual,coach_06
+2025-08-13 13:42,Zed,entrenamiento individual,coach_07
+2025-08-13 17:14,Jinx,entrenamiento individual,coach_10
+2025-08-13 20:00,Jinx,práctica de habilidad,coach_10
+2025-08-13 22:29,Thresh,entrenamiento individual,coach_10
+2025-08-14 02:01,Lux,práctica de habilidad,coach_10
+2025-08-14 04:48,Lux,combate en equipo,coach_01
+2025-08-14 08:13,Thresh,entrenamiento individual,coach_04
+2025-08-14 10:02,Ezreal,análisis de estrategia,coach_07
+2025-08-14 13:19,Morgana,combate en equipo,coach_07
+2025-08-14 17:04,Caitlyn,descanso,coach_01
+2025-08-14 20:30,Lux,práctica de habilidad,coach_04
+2025-08-14 23:11,Lee Sin,descanso,coach_09
+2025-08-15 01:48,Lee Sin,combate en equipo,coach_08
+2025-08-15 05:08,Lee Sin,práctica de habilidad,coach_06
+2025-08-15 08:26,Thresh,análisis de estrategia,coach_10

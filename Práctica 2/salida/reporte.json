@@ -1,0 +1,82 @@
+{
+  "total_registros": 115,
+  "entrenamientos_por_dia": {
+    "Lunes": {
+      "Garen": 1,
+      "Zed": 2,
+      "Jinx": 2,
+      "Ahri": 1,
+      "Vi": 3,
+      "Yasuo": 1,
+      "Caitlyn": 2,
+      "Morgana": 3,
+      "Lee Sin": 4,
+      "Ezreal": 1
+    },
+    "Martes": {
+      "Morgana": 6,
+      "Yasuo": 1,
+      "Zed": 4,
+      "Vi": 2,
+      "Jinx": 2,
+      "Lux": 2,
+      "Ezreal": 1,
+      "Caitlyn": 1,
+      "Thresh": 1,
+      "Ahri": 1
+    },
+    "Miércoles": {
+      "Lee Sin": 1,
+      "Ahri": 2,
+      "Vi": 1,
+      "Caitlyn": 2,
+      "Ezreal": 2,
+      "Yasuo": 2,
+      "Zed": 2,
+      "Jinx": 2,
+      "Thresh": 2,
+      "Lux": 1
+    },
+    "Jueves": {
+      "Lee Sin": 2,
+      "Lux": 2,
+      "Ahri": 1,
+      "Zed": 2,
+      "Thresh": 3,
+      "Garen": 2,
+      "Vi": 1
+    },
+    "Viernes": {
+      "Thresh": 1,
+      "Vi": 3,
+      "Zed": 2,
+      "Garen": 1,
+      "Jinx": 2,
+      "Ezreal": 2,
+      "Ahri": 1
+    },
+    "Sábado": {
+      "Ahri": 2,
+      "Yasuo": 2,
+      "Garen": 3,
+      "Lee Sin": 2,
+      "Zed": 1,
+      "Thresh": 2,
+      "Jinx": 1
+    },
+    "Domingo": {
+      "Garen": 3,
+      "Morgana": 1,
+      "Ezreal": 2,
+      "Ahri": 3,
+      "Thresh": 1,
+      "Zed": 1,
+      "Jinx": 3,
+      "Lee Sin": 1,
+      "Yasuo": 1,
+      "Caitlyn": 1,
+      "Vi": 1,
+      "Lux": 1
+    }
+  }
+}
